@@ -4,8 +4,13 @@ Jobulizer is an interactive Jupyter Notebook project to help analyze and visuali
 
 ## Getting started
 
-To use Jobulizer, clone this git repo and add your data in CSV format to the `n` folder. Then, update the target file at the beginning of the notebook! Now you're ready to Jobulize your job search.
+To use Jobulizer, clone this git repo and add your data in CSV format to the `src` folder. Then, update `srcCsv` in the notebook to your csv file.
 
+For example:
+
+```python
+srcCsv = "src/jobulizer-TEST.csv"
+```
 
 ### Editing the schema
 

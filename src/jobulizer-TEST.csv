@@ -1,4 +1,4 @@
-Company,Position,Location,Contact,postingURL,source,status,ApplyDate,FirstUpdate,LastUpdate,Notes,companyNotes
+company,position,location,contact,postingURL,source,status,applyDate,firstUpdate,firstInterview,lastUpdate,notes,companyNotes
 Enron,Software Engineer,NYC,Jeff Skilling,https://enron.x,Direct,accepted,2022-06-10,2022-06-15,2022-06-22,Excited about work environment,Commodity trader
 Worldcom,Software Consultant,Seattle,,https://app.joinhandshake.com/stu/,Handshake,interviewed,2022-05-24,2022-05-29,,Met recruiter at bar,
 Washington Mutual,Software Engineer,Remote,,indeed.com,Indeed,interviewed,2022-05-04,2022-05-13,,,

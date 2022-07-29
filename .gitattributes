@@ -1,1 +1,7 @@
+# Attribute referenced in .git/config file with a filter command.
 *.ipynb filter=jupyter-notebook
+# Filter appears in git config file below:
+# 
+# [filter "jupyter-notebook"]
+# clean = "jupyter nbconvert --clear-output --inplace --to=notebook --stdin --stdout"
+# required
